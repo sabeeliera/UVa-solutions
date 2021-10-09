@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main() {
+int main()
+{
 	char s[1000];
 	while(gets(s)) {
 		int i, j;
