@@ -1,7 +1,6 @@
+//686 Goldbach's Conjecture (II)
 #include <bits/stdc++.h>
-
-using namespace std;
-
+using namespace std:
 int main(int argc, char *argv[])
 {
     cin.tie(0); cout.tie(0); ios::sync_with_stdio(false);
