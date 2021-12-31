@@ -1,13 +1,9 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
 const double PI = 2.0 * acos(0);
-
 int main(int argc, char *argv[])
 {
     cin.tie(0), cout.tie(0), ios::sync_with_stdio(false);
-
     int n;
     double T, ri, ti;
     
@@ -30,6 +26,5 @@ int main(int argc, char *argv[])
         }
         cout << '\n';
     }
-
     return 0;
 }
